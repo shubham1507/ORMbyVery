@@ -1,0 +1,37 @@
+[
+
+    {
+        "model":"inventory.brand",
+        "pk":1,
+        "fields":{
+            "name":"puma",
+            "nickname":"Puh-ma"
+        }
+    },
+    
+    {
+        "model":"inventory.brand",
+        "pk":2,
+        "fields":{
+            "name":"reebok2",
+            "nickname":"reebok2"
+        }
+    },
+    {
+        "model":"inventory.brand",
+        "pk":3,
+        "fields":{
+            "name":"reebok3",
+            "nickname":"reebok3"
+        }
+    },
+    {
+        "model":"inventory.brand",
+        "pk":4,
+        "fields":{
+            "name":"reebok4",
+            "nickname":"reebok4"
+        }
+    }
+]
+
